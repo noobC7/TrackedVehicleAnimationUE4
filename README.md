@@ -15,9 +15,9 @@ You can test your tracked vehicle dynamic model or algorithm in m-file and view 
 The prototype of the tracked vehicle is from MMT content
 https://forums.unrealengine.com/t/open-source-machinery-modelling-toolkit/54422
 
-### How to use demo:
-1. run m-file
-2. run UE4
+### How to run demo:
+1. run ServerMain.m first
+2. play UE4 project within 5 seconds
 3. If successful, you can see data sent from matlab in left side of UE4
 
 ### How to customize:
