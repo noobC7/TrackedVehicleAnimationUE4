@@ -1,0 +1,47 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MMT.cpp.obj": [
+			"MMT.cpp.obj",
+			"MMTBPFunctionLibrary.cpp.obj",
+			"MMTFrictionComponent.cpp.obj",
+			"MMTFrictionSetBase.cpp.obj",
+			"MMTFrictionSetPassive.cpp.obj",
+			"MMTFrictionSolver.cpp.obj",
+			"MMTFrictionSolverComponent.cpp.obj",
+			"MMTPawn.cpp.obj",
+			"MMTPIDController.cpp.obj",
+			"MMTSecondaryTick.cpp.obj",
+			"MMTSuspensionStack.cpp.obj",
+			"MMTSuspensionStackComponent.cpp.obj",
+			"MMTTrack.cpp.obj",
+			"MMTTrackAnimationComponent.cpp.obj",
+			"MMTVehicleSuspensionComponent.cpp.obj"
+		],
+		"Module.MMT.gen.cpp.obj": [
+			"MMT.init.gen.cpp.obj",
+			"MMTBPFunctionLibrary.gen.cpp.obj",
+			"MMTContactPointDataStruct.gen.cpp.obj",
+			"MMTFrictionComponent.gen.cpp.obj",
+			"MMTFrictionSetBase.gen.cpp.obj",
+			"MMTFrictionSetPassive.gen.cpp.obj",
+			"MMTFrictionSetTrack.gen.cpp.obj",
+			"MMTFrictionSetWheel.gen.cpp.obj",
+			"MMTFrictionSolver.gen.cpp.obj",
+			"MMTFrictionSolverComponent.gen.cpp.obj",
+			"MMTPawn.gen.cpp.obj",
+			"MMTPhysicalSurfaceFrictionCoefficient.gen.cpp.obj",
+			"MMTPIDController.gen.cpp.obj",
+			"MMTPIDErrorItemStruct.gen.cpp.obj",
+			"MMTSecondaryTick.gen.cpp.obj",
+			"MMTSuspensionStack.gen.cpp.obj",
+			"MMTSuspensionStackComponent.gen.cpp.obj",
+			"MMTTrack.gen.cpp.obj",
+			"MMTTrackAnimationComponent.gen.cpp.obj",
+			"MMTTrackSplinePointAnimatedStruct.gen.cpp.obj",
+			"MMTTrackSprocketAndIdlerStruct.gen.cpp.obj",
+			"MMTVehicleSuspensionComponent.gen.cpp.obj",
+			"MMTVehicleSuspensionStructs.gen.cpp.obj"
+		]
+	}
+}

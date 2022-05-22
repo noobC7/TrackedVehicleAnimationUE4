@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Project\\ue4\\ue4.27\\MMT_Content-master_v3_matlab\\Source\\MMT_Content\\MMT_Content.Build.cs",
+		"D:\\Project\\ue4\\ue4.27\\MMT_Content-master_v3_matlab\\Plugins\\MMT\\Source\\MMT\\MMT.Build.cs",
+		"D:\\Project\\ue4\\ue4.27\\MMT_Content-master_v3_matlab\\Source\\MMT_Content.Target.cs",
+		"D:\\Project\\ue4\\ue4.27\\MMT_Content-master_v3_matlab\\Source\\MMT_ContentEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

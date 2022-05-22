@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MMT_Content",
+			"Path": "D:\\Project\\ue4\\ue4.27\\MMT_Content-master_v3_matlab\\Source\\MMT_Content.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MMT_ContentEditor",
+			"Path": "D:\\Project\\ue4\\ue4.27\\MMT_Content-master_v3_matlab\\Source\\MMT_ContentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

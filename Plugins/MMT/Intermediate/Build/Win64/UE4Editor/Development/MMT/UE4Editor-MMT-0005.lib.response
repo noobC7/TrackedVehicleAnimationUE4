@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MMT-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\ue4\ue4.27\MMT_Content-master_v2_simple\Intermediate\Build\Win64\MMT_ContentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Project\ue4\ue4.27\MMT_Content-master_v2_simple\Plugins\MMT\Intermediate\Build\Win64\UE4Editor\Development\MMT\Module.MMT.cpp.obj"
+"D:\Project\ue4\ue4.27\MMT_Content-master_v2_simple\Plugins\MMT\Intermediate\Build\Win64\UE4Editor\Development\MMT\Module.MMT.gen.cpp.obj"
+"D:\Project\ue4\ue4.27\MMT_Content-master_v2_simple\Plugins\MMT\Intermediate\Build\Win64\UE4Editor\Development\MMT\Default.rc2.res"
+/OUT:"D:\Project\ue4\ue4.27\MMT_Content-master_v2_simple\Plugins\MMT\Intermediate\Build\Win64\UE4Editor\Development\MMT\UE4Editor-MMT-0005.lib"
